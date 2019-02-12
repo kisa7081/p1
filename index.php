@@ -10,7 +10,7 @@
 
 <body>
     <h1><?=$name; ?></h1>
-    <img src="images/me.jpg" alt="<?=$image_alt; ?>"/>
+    <img src="images/me.jpg" alt="<?=$image_alt; ?>" title="<?=$image_alt; ?>"/>
     <h1>About me</h1>
     <p>
        <?=$about_me; ?>
