@@ -2,7 +2,9 @@
 
 $name='Daniel McCullough';
 
-$about_me = 'I\'v been a software developer for just over twenty years now, and have decided to go back to school here at the Harvard extension school';
+$image_alt = 'My wife and me visiting her parents in Russia.';
+
+$about_me = 'I\'v been a software developer for just over twenty years now (mostly Java), and have decided to go back to school here at the Harvard Extension School.  I\'m also surrently taking Larry Bouthillier\' class on                Node.JS development.  These two classes will be my first experience with PHP and Node.JS, and I\'m looking forward to the rest of the semester.  I\'m currently employed by a government contractor as a Java                    developer with the USDA Forestry Service and had a bit of a furlough when the government shutdown.  The contract I work under needed an extension signed on Janurary 15th, which wasn\'t able to happen. So I was                able to find some other contract work, which began the week of January 28th.  Then school started.  And then the furlough ended, and the USDA contract got signed.  Needless to say, I\'ve been extremely busy                  lately.  But so far so good.'; 
 
 $author = 'Mark Twain';
 

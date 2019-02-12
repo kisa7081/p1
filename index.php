@@ -10,12 +10,12 @@
 
 <body>
     <h1><?=$name; ?></h1>
-    <img src="images/me.jpg" />
+    <img src="images/me.jpg" alt="<?=$image_alt; ?>"/>
     <h1>About me</h1>
     <p>
        <?=$about_me; ?>
     </p>
-    <h1>Random quote from <?=$author; ?></h1>
+    <h1>Random quote from <?=$author; ?>:</h1>
     <blockquote>
         <?=$quote; ?>
     </blockquote>
