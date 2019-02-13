@@ -4,7 +4,7 @@
 
 <head>
     <title>Project 1</title>
-    <meta charset="urf-8" />
+    <meta charset="utf-8" />
     <link rel='stylesheet' href="css/simple.css" />
 </head>
 
